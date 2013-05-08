@@ -14,7 +14,7 @@
 >### 0.3 如何才能拿到邀请码？
 
 ----------
->### 0.4 网站好像还缺一些功能？
+>### 0.4 [https://raw.github.com/hadesli/CodeFAQ/master/FAQ_0_4.md](https://raw.github.com/hadesli/CodeFAQ/master/FAQ_0_4.md "网站好像还缺一些功能?")
 
 ----------
 >### 0.5 我的数据安全么？
