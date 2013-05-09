@@ -5,7 +5,7 @@
 ## **0. 常见问题**
 
 ----------
->### 0.1 Code是什么？
+>### 0.1 [Code是什么？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_1.md "Code是什么？")
 
 ----------
 >### 0.2 如何加入Code平台？
@@ -14,7 +14,7 @@
 >### 0.3 如何才能拿到邀请码？
 
 ----------
->### 0.4 [网站好像还缺一些功能?](https://raw.github.com/hadesli/CodeFAQ/master/FAQ_0_4.md "网站好像还缺一些功能?")
+>### 0.4 [网站好像还缺一些功能?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_4.md "网站好像还缺一些功能?")
 
 ----------
 >### 0.5 我的数据安全么？
