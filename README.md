@@ -8,7 +8,7 @@
 >### 0.1 Code是什么？
 
 ----------
->### 0.2 如何加入Code平台？
+>### 0.2 [如何加入Code网站？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_2.md "如何加入Code网站？")
 
 ----------
 >### 0.3 如何才能拿到邀请码？
