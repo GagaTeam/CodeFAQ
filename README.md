@@ -11,7 +11,7 @@
 >### 0.2 [如何加入Code网站？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_2.md "如何加入Code网站？")
 
 ----------
->### 0.3 如何才能拿到邀请码？
+>### 0.3 [如何才能拿到邀请码？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_3.md "如何才能拿到邀请码？")
 
 ----------
 >### 0.4 [网站好像还缺一些功能?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_4.md "网站好像还缺一些功能?")
