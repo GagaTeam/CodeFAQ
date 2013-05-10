@@ -57,19 +57,18 @@
 
 ## **2. 创建项目**
 ----------
-### 2.1 创建Code帐号
-### 2.2 配置本地git环境
-### 2.3 管理公钥
-### 2.4 创建一个新项目
-### 2.5 上传本地项目
-### 2.6 wiki
+### 2.1 [创建一个新项目](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_2_1.md "创建一个新项目")
+### 2.2 [配置本地git环境](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_2_2.md "配置本地git环境")
+### 2.3 [管理公钥](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_2_3.md "管理公钥")
+### 2.4 [上传本地项目](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_2_4.md "上传本地项目")
+### 2.5 [wiki](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_2_5.md "wiki")
 
 
 ## **3. 社交编程**
 ----------
-### 3.1 派生版本库
-### 3.2 查看派生树
-### 3.3 合并请求
+### 3.1 [派生版本库](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_1.md "派生版本库")
+### 3.2 [查看派生树](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_2.md "查看派生树")
+### 3.3 [合并请求](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_3.md "合并请求")
 ### 3.4 查看网络图表
 ### 3.5 关注项目
 ### 3.6 关注人
@@ -81,25 +80,25 @@
 ### 4.1 增加协作者
 ### 4.2 处理合并请求
 ### 4.3 处理工单
-### 4.4 项目设置
+### 4.4 [项目设置](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_4.md "项目设置")
 
 
 ## **5. 帐号设置**
 ----------
-### 5.1 个人资料设置
-### 5.2 SSH公钥管理
-### 5.3 通知设置
-### 5.4 安全日志
+### 5.1 [个人资料设置](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_5_1.md "个人资料设置")
+### 5.2 [SSH公钥管理](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_5_2.md "SSH公钥管理")
+### 5.3 [通知设置](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_5_3.md "通知设置")
+### 5.4 [安全日志](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_5_4.md "安全日志")
 
 ## **6. 关于我们**
 ----------
-### 6.1 为什么CSDN要做Code平台
+### 6.1 [为什么CSDN要做Code平台](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_6_1.md "为什么CSDN要做Code平台")
 ### 6.2 网站技术架构
 ### 6.3 网站安全架构
 ### 6.4 我们的开源
 ### 6.5 产品发布路线图
 
-## **7. 联系我们**
+## [**7. 联系我们**](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_7_0.md "联系我们")
 ----------
 
 ## **8. 法律声明**
