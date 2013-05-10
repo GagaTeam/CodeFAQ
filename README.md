@@ -14,22 +14,22 @@
 >### 0.3 [如何才能拿到邀请码？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_3.md "如何才能拿到邀请码？")
 
 ----------
->### 0.4 [网站好像还缺一些功能?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_4.md "网站好像还缺一些功能?")
+>### 0.4 网站好像还缺一些功能?
 
 ----------
 >### 0.5 我的数据安全么？
 
 ----------
->### 0.6 Code代码托管业务收费么？
+>### 0.6 [Code代码托管业务收费么？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_6.md "Code代码托管业务收费么?")
 
 ----------
->### 0.7 每个用户有多少磁盘容量？
+>### 0.7 [每个用户有多少磁盘容量？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_7.md "每个用户有多少磁盘容量?")
 
 ----------
 >### 0.8 用户权限是如何划分的？
 
 ----------
->### 0.9 如何提交错误报告
+>### 0.9 [如何提交错误报告?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_9.md "如何提交错误报告?")
 
 ----------
 >### 0.10 为什么提交显示的作者不是我自己
