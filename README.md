@@ -45,7 +45,7 @@
 
 ## **1. 网站探索**
 ----------
-### 1.1 首页
+### 1.1 [首页](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_1.md "首页")
 ### 1.2 发现
 ### 1.3 搜索
 ### 1.4 博客
@@ -102,5 +102,5 @@
 ## **7. 联系我们**
 ----------
 
-## **8. 法律声明**
+## [**8. 法律声明**](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_8.md "法律声明")
 ----------
