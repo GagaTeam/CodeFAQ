@@ -1,8 +1,8 @@
-# **Code平台用户帮助文档 CodeFAQ**
+# **Code平台用户帮助文档**
 
 ----------
 
-## **0. 常见问题**
+## **0. 常见问题（FAQ）**
 
 ----------
 >### 0.1 Code是什么？
@@ -14,10 +14,10 @@
 >### 0.3 如何才能拿到邀请码？
 
 ----------
->### 0.4 [网站好像还缺一些功能?](https://raw.github.com/hadesli/CodeFAQ/master/FAQ_0_4.md "网站好像还缺一些功能?")
+>### 0.4 [网站好像还缺一些功能?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_4.md "网站好像还缺一些功能?")
 
 ----------
->### 0.5 [我的数据安全么？](https://raw.github.com/hadesli/CodeFAQ/master/FAQ_0_5.md "我的数据安全么")
+>### 0.5 [我的数据安全么？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_5.md "我的数据安全么")
 
 ----------
 >### 0.6 [Code代码托管业务收费么？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_6.md "Code代码托管业务收费么?")
