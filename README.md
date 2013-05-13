@@ -5,13 +5,13 @@
 ## **0. 常见问题（FAQ）**
 
 ----------
->### 0.1 Code是什么？
+>### 0.1 [Code是什么？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_1.md "Code是什么？")
 
 ----------
 >### 0.2 [如何加入Code网站？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_2.md "如何加入Code网站？")
 
 ----------
->### 0.3 如何才能拿到邀请码？
+>### 0.3 [如何才能拿到邀请码？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_3.md "如何才能拿到邀请码？")
 
 ----------
 >### 0.4 [网站好像还缺一些功能?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_4.md "网站好像还缺一些功能?")
@@ -49,10 +49,10 @@
 ### 1.2 发现
 ### 1.3 搜索
 ### 1.4 博客
-### 1.5 帮助
-### 1.6 社区
+### 1.5 [帮助](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_5.md "首页")
+### 1.6 [社区](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_6.md "首页")
 ### 1.7 用户主页
-### 1.8 用户控制面板
+### 1.8 [用户控制面板](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_8.md "首页")
 
 
 ## **2. 创建项目**
@@ -69,7 +69,7 @@
 ### 3.1 [派生版本库](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_1.md "派生版本库")
 ### 3.2 [查看派生树](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_2.md "查看派生树")
 ### 3.3 [合并请求](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_3.md "合并请求")
-### 3.4 查看网络图表
+### 3.4 [查看网络图表](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_4.md "查看网络图表")
 ### 3.5 关注项目
 ### 3.6 关注人
 ### 3.7 称赞
@@ -98,7 +98,7 @@
 ### 6.4 我们的开源
 ### 6.5 产品发布路线图
 
-## [**7. 联系我们**](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_7_0.md "联系我们")
+## [**7. 联系我们**](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_7.md "联系我们")
 ----------
 
 ## [**8. 法律声明**](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_8.md "法律声明")
