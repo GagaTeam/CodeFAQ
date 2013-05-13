@@ -46,12 +46,12 @@
 ## **1. 网站探索**
 ----------
 ### 1.1 [首页](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_1.md "首页")
-### 1.2 发现
-### 1.3 搜索
-### 1.4 博客
+### 1.2 [发现](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_2.md "发现")
+### 1.3 [搜索](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_3.md "搜索")
+### 1.4 [博客](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_4.md "博客")
 ### 1.5 帮助
 ### 1.6 社区
-### 1.7 用户主页
+### 1.7 [用户主页](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_7.md "用户主页")
 ### 1.8 用户控制面板
 
 
