@@ -69,9 +69,9 @@
 ### 3.2 [查看派生树](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_2.md "查看派生树")
 ### 3.3 [合并请求](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_3.md "合并请求")
 ### 3.4 [查看网络图表](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_4.md "查看网络图表")
-### 3.5 关注项目
-### 3.6 关注人
-### 3.7 称赞
+### 3.5 [关注项目](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_5.md "关注项目")
+### 3.6 [关注人](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_6.md "关注人")
+### 3.7 [称赞](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_7.md "称赞")
 
 
 ## **4. 项目管理**
