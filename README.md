@@ -26,10 +26,10 @@
 >### 0.7 [每个用户有多少磁盘容量？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_7.md "每个用户有多少磁盘容量?")
 
 ----------
->### 0.8 用户权限是如何划分的？
+>### 0.8 [用户权限是如何划分的？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_8.md "用户权限是如何划分的？")
 
 ----------
->### 0.9 [如何提交错误报告?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_9.md "如何提交错误报告?")
+>### 0.9 [如何提交错误报告？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_9.md "如何提交错误报告？")
 
 ----------
 >### 0.10 为什么提交显示的作者不是我自己
