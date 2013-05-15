@@ -6,7 +6,7 @@
 
 
 角色 | 项目读权限 | 项目写权限 | 管理项目 | 派生项目 |提交合并请求 | 处理合并请求 | 提交Issue | 处理Issue | 编辑Wiki | 对提交、合并请求、Issue发表评论
------------- | ------------- | ------------
+------------ | ------------- | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------
 项目主人|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|
 项目成员|![](images/ok.png)|![](images/ok.png)|![](images/cross.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|![](images/ok.png)|
 其它用户 |![](images/ok.png)|![](images/cross.png)|![](images/cross.png)|![](images/ok.png)|![](images/ok.png)|![](images/cross.png)|![](images/ok.png)|![](images/cross.png)|![](images/cross.png)|![](images/ok.png)|
