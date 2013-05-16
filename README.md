@@ -47,6 +47,7 @@
 ### 1.6 [社区](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_6.md "社区")
 ### 1.7 [用户主页](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_7.md "用户主页")
 ### 1.8 [用户控制面板](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_1_8.md "用户控制面板")
+### 1.9 查看通知
 
 ## **2. 创建项目**
 ----------
@@ -66,14 +67,16 @@
 ### 3.5 [关注项目](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_5.md "关注项目")
 ### 3.6 [关注人](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_6.md "关注人")
 ### 3.7 [称赞](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_3_7.md "称赞")
+### 3.8 开Issue
 
 
 ## **4. 项目管理**
 ----------
 ### 4.1 增加协作者
 ### 4.2 处理合并请求
-### 4.3 处理工单
-### 4.4 [项目设置](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_4.md "项目设置")
+### 4.3 [处理Issue](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_3.md "处理Issue")
+### 4.4 Issue标签管理
+### 4.5 [项目设置](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_4.md "项目设置")
 
 
 ## **5. 帐号设置**
