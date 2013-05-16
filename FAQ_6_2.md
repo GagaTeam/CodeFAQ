@@ -12,4 +12,4 @@
 
 **Code平台系统构架**
 
-![](images/architecture.png)
+![](images/FAQ_6_2_1.png)

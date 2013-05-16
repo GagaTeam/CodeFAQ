@@ -35,4 +35,4 @@
 
 **Code平台安全构架**
 
-![](images/sec_architecture.png)
+![](images/FAQ_6_3_1.png)

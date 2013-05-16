@@ -32,6 +32,8 @@
 >### 0.9 [如何提交错误报告？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_9.md "如何提交错误报告？")
 
 ----------
+>### 0.10 [常见问题](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_10.md "常见问题")
+
 >### 0.10 为什么提交显示的作者不是我自己
 
 ----------
