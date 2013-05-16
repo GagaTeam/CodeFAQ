@@ -26,19 +26,13 @@
 >### 0.7 [每个用户有多少磁盘容量？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_7.md "每个用户有多少磁盘容量?")
 
 ----------
->### 0.8 用户权限是如何划分的？
+>### 0.8 [用户权限是如何划分的？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_8.md "用户权限是如何划分的？")
 
 ----------
->### 0.9 [如何提交错误报告?](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_9.md "如何提交错误报告?")
+>### 0.9 [如何提交错误报告？](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_9.md "如何提交错误报告？")
 
 ----------
->### 0.10 为什么提交显示的作者不是我自己
-
-----------
->### 0.11 查看文件及查看提交Diff的限制
-
-----------
->### 0.12 常见错误提示
+>### 0.10 [常见问题](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_0_10.md "常见问题")
 
 ----------
 
@@ -92,10 +86,10 @@
 ## **6. 关于我们**
 ----------
 ### 6.1 [为什么CSDN要做Code平台](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_6_1.md "为什么CSDN要做Code平台")
-### 6.2 网站技术架构
-### 6.3 网站安全架构
+### 6.2 [网站技术架构](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_6_2.md "网站技术架构")
+### 6.3 [网站安全架构](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_6_3.md "网站安全架构")
 ### 6.4 我们的开源
-### 6.5 产品发布路线图
+
 
 ## [**7. 联系我们**](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_7.md "联系我们")
 ----------
