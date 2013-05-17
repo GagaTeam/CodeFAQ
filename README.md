@@ -72,8 +72,8 @@
 
 ## **4. 项目管理**
 ----------
-### 4.1 增加协作者
-### 4.2 处理合并请求
+### 4.1 [增加协作者](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_1.md "增加协作者")
+### 4.2 [处理合并请求](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_2.md "处理合并请求")
 ### 4.3 [处理Issue](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_3.md "处理Issue")
 ### 4.4 Issue标签管理
 ### 4.5 [项目设置](https://github.com/hadesli/CodeFAQ/blob/master/FAQ_4_4.md "项目设置")
