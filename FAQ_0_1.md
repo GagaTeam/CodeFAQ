@@ -3,7 +3,7 @@
 code是一个在线的代码托管和社交编程平台。开发者在code平台可以：
 
 
-![mmm](https://code.csdn.net/theSalt/gggg/file/pictures/m.png)
+![mmm](http://code.csdn.net/theSalt/gggg/file/pictures/m.png)
 
 
 （1）** 托管代码 **：使用git版本管理工具将您的代码托管到code平台，进行云端存储
